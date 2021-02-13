@@ -1,4 +1,6 @@
 "file 3.txt"
 <head>
- tittle Karen Elizabeth Quiñonez Rivera "Este es mi tercer commit"
+ tittle Karen Elizabeth Quiñonez Rivera 
+git comit"Este es mi tercer commit"
+git push -u origen master 
 <head/>
